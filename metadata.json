@@ -1,0 +1,6 @@
+{
+  "name": "AI Ad-Copy & Hook Tester",
+  "description": "Generate scroll-stopping hooks, high-converting copy angles, and strong CTAs from any product or landing page URL for Facebook, LinkedIn, and TikTok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
